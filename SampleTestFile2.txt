@@ -1,3 +1,5 @@
 Sample file 2
 
 Test line
+
+Another test line
